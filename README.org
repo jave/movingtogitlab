@@ -1,0 +1,17 @@
+* Moving to Gitlab
+I'm moving my repos to gitlab.
+
+See
+https://www.fsf.org/news/gnu-releases-ethical-evaluations-of-code-hosting-services
+for reasons. Other more mundane reasons include that I use gitlab
+at work.
+
+;; License: GPL-3+
+
+| sh-proxy         | https://gitlab.com/jave/sh-proxy         |
+| zen-mode         | https://gitlab.com/jave/zen-mode         |
+| dna-debug        | https://gitlab.com/jave/dna-debug        |
+| dragbox          | https://gitlab.com/jave/dragbox          |
+| emmental         | https://gitlab.com/jave/emmental         |
+| emsane           | https://gitlab.com/jave/emsane           |
+| pocketcompletion | https://gitlab.com/jave/pocketcompletion |
