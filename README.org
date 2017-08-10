@@ -15,3 +15,4 @@ at work.
 | emmental         | https://gitlab.com/jave/emmental         |
 | emsane           | https://gitlab.com/jave/emsane           |
 | pocketcompletion | https://gitlab.com/jave/pocketcompletion |
+| dired-sequence   | https://gitlab.com/jave/dired-sequence   |
