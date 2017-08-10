@@ -16,3 +16,4 @@ at work.
 | emsane           | https://gitlab.com/jave/emsane           |
 | pocketcompletion | https://gitlab.com/jave/pocketcompletion |
 | dired-sequence   | https://gitlab.com/jave/dired-sequence   |
+| fsdired          | https://gitlab.com/jave/fsdired          |
